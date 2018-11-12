@@ -1,0 +1,8 @@
+body,
+html {
+  margin: 0 auto;
+  background-color: adjust-hue($color: #123456, $degrees: 20);
+}
+h1 {
+  color: white;
+}
